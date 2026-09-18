@@ -1,0 +1,8 @@
+a) Wat is het verschil tussen git add en git commit?
+git add is als je een bestand wilt toevoegen zoals een text bestand. git commit is om een bestand een soort upload te doen naar je github. en je kunt dingen bij een bestand zetten.
+
+b) Wanneer ontstaat een merge-conflict, en hoe herken je dat in een bestand?
+Dit kan onstaan wanneer je een push doet van twee verchillende locaties dus van je github desktop en van je github-website. je kunt dit oplossen door in je github desktop en dan open je het tekst bestand. En dan kun je <<<<>>>>> zien in het bestand deze moet je verwijderen en dan zou het normaal wel werken.
+
+c) Wat is het voordeel van een Pull Request tegenover rechtstreeks mergen op main?
+Hiermee kun je je coden testen voor dat je je code live zet. hiermee kunnen anderen een mogelijke oplossing voorstellen zonder iets meteen te breken. je code blijft schoon op je main branch.
